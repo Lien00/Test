@@ -4,9 +4,9 @@ var linebot = require('linebot'); //使用模組linebot
 var getJSON = require('get-json'); //使用模組get-json
 
 var bot = linebot({
-  "channelId": "1511016044",
-  "channelSecret": "614a1dc79eaefd4ca0c37263634be761",
-  "channelAccessToken": "TYdm9aLp06Z+QIsCrCTPGPGrt8XrNx2QpWJFI4z+FbTuhxV2/nucvHZo7+kkdPlY1EowYjAd1CSDu8sqRL3G0VJl1ks1MRhogtDDITHyz6E4qSL9GMfkyexOCdrZIRLR/gobgmdQEFQvm473Yu0m0QdB04t89/1O/w1cDnyilFU="
+  "channelId": "1513395995",
+  "channelSecret": "08370757249459a0801e242c12cdf2b9",
+  "channelAccessToken": "SJBIslPg49g1fda/RaK/uzzsVOiKpE4D/efEF32TaxGGZWMVWPKsKNIjZeT+BxmQZ2c0TMAMfdNiwKbSMSvp+L/TyZDJAvC/vDasijO8HeSjQAp3bhzP0sz0vzc3QnC5oKCm/7QVi+feix1AgmX9jgdB04t89/1O/w1cDnyilFU="
 }); 
 
 var timer; //定義時間
