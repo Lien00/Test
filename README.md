@@ -1,3 +1,1 @@
-# LearnTest
-"# weather" 
-"# LineBotTemplateGo" 
+# Test
